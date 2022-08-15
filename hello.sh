@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "hell Sumant"
+echo "hello Sumant"
